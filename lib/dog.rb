@@ -1,5 +1,5 @@
 # Add your code here
 class Dog 
   
-  def initali
+  def initaliinitialize
 end 
