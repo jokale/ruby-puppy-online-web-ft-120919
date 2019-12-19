@@ -1,5 +1,6 @@
 # Add your code here
 class Dog 
   
-  def initaliinitialize
+  def initialize
+    
 end 
