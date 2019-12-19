@@ -10,5 +10,5 @@ class Dog
   end 
   
   def self.print_all
-    counter 1 
+    
 end 
